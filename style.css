@@ -1,86 +1,128 @@
 body {
-
-	background-color: #b8b8b8;
-	color: #333;
-	font-size: 13px;
-	line-height: 18px;
-
+    background-color: #b8b8b8;
+    color: #333;
+    font-size: 13px;
+    line-height: 18px;
 }
-
 #content {
-
-	width: 800px;
-	padding: 20px 30px;
-	background-color: #fff;
-	margin: 0 auto;
-
+    width: 800px;
+    padding: 20px 30px;
+    background-color: #fff;
+    margin: 0 auto;
 }
-
-h1  {
-
-	font-size: 26px;
-	line-height: 30px;
-	font-weight: normal;
-	color: #333;
-	margin-top: 20px
-	margin-bottom: 10px;
-
-} 
-
+h1 {
+    font-size: 26px;
+    line-height: 30px;
+    font-weight: normal;
+    color: #333;
+    margin-top: 20px margin-bottom: 10px;
+}
 h2 {
-
-	font-size: 36px;
-	line-height: 46px;
-	font-weight: normal;
-	font-style: italic;
-	color: #333;
-	margin-top: 40px
-	margin-bottom: 20px;
-
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: normal;
+    font-style: italic;
+    color: #333;
+    margin-top: 40px margin-bottom: 20px;
 }
-
 .fixed {
-
-	position: fixed;
-	top: 20px;
-	right: 0px;
-	width: 200px;
-	padding: 20px;
-	font-style: italic;
-	color: #fff;
-	background-color: #666;
+    position: fixed;
+    top: 20px;
+    right: 0px;
+    width: 200px;
+    padding: 20px;
+    font-style: italic;
+    color: #fff;
+    background-color: #666;
 }
-
 #puzzle {
-
-	position: relative;
-	width: 600px;
-	height: 449px;
-	background: url("img/v6/v6-watermark.jpg") no-repeat 0 0;
-	border: 5px solid #333;
-	margin: 0 auto;
+    position: relative;
+    width: 600px;
+    height: 449px;
+    background: url("img/v6/v6-watermark.jpg") no-repeat 0 0;
+    border: 5px solid #333;
+    margin: 0 auto;
 }
-
 #puzzle img {
-	position: absolute;
-	}
-	#puzzle #img1 { top:0px; left: 0px; }
-	#puzzle #img2 { top:0px; left: 117px; }
-	#puzzle #img3 { top:0px; left: 200px; }
-	#puzzle #img4 { top:0px; left: 366px; }
-	#puzzle #img5 { top:0px; left: 443px; }
-	#puzzle #img6 { top:73px; left: 0px; }
-	#puzzle #img7 { top:106px; left: 85px; }
-	#puzzle #img8 { top:79px; left: 232px; }
-	#puzzle #img9 { top:118px; left: 327px; }
-	#puzzle #img10 { top:81px; left: 476px; }
-	#puzzle #img11 { top:226px; left: 0px; }
-	#puzzle #img12 { top:188px; left: 118px; }
-	#puzzle #img13 { top:222px; left: 200px; }
-	#puzzle #img14 { top:187px; left: 358px; }
-	#puzzle #img15 { top:225px; left: 442px; }
-	#puzzle #img16 { top:297px; left: 0px; }
-	#puzzle #img17 { top:331px; left: 85px; }
-	#puzzle #img18 { top:307px; left: 237px; }
-	#puzzle #img19 { top:340px; left: 320px; }
-	#puzzle #img20 { top:301px; left: 482px; }
+    position: absolute;
+}
+#puzzle #img1 {
+    top: 0px;
+    left: 0px;
+}
+#puzzle #img2 {
+    top: 0px;
+    left: 117px;
+}
+#puzzle #img3 {
+    top: 0px;
+    left: 200px;
+}
+#puzzle #img4 {
+    top: 0px;
+    left: 366px;
+}
+#puzzle #img5 {
+    top: 0px;
+    left: 443px;
+}
+#puzzle #img6 {
+    top: 73px;
+    left: 0px;
+}
+#puzzle #img7 {
+    top: 106px;
+    left: 85px;
+}
+#puzzle #img8 {
+    top: 79px;
+    left: 232px;
+}
+#puzzle #img9 {
+    top: 118px;
+    left: 327px;
+}
+#puzzle #img10 {
+    top: 81px;
+    left: 476px;
+}
+#puzzle #img11 {
+    top: 226px;
+    left: 0px;
+}
+#puzzle #img12 {
+    top: 188px;
+    left: 118px;
+}
+#puzzle #img13 {
+    top: 222px;
+    left: 200px;
+}
+#puzzle #img14 {
+    top: 187px;
+    left: 358px;
+}
+#puzzle #img15 {
+    top: 225px;
+    left: 442px;
+}
+#puzzle #img16 {
+    top: 297px;
+    left: 0px;
+}
+#puzzle #img17 {
+    top: 331px;
+    left: 85px;
+}
+#puzzle #img18 {
+    top: 307px;
+    left: 237px;
+}
+#puzzle #img19 {
+    top: 340px;
+    left: 320px;
+}
+#puzzle #img20 {
+    top: 301px;
+    left: 482px;
+}
